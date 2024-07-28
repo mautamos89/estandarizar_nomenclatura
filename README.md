@@ -7,7 +7,7 @@ Si tiene alguna pregunta o desea verificar una imprecisión, se sugiere hacer us
 
 Vídeo explicativo: https://youtu.be/cDxS_HoGsAk
 
-Enlace a programa:
+Enlace a programa: https://tinyurl.com/muaj9b22
 
 ## *English*
 The "Estandaeización de Nomenclatura" application has been designed for the Administrative Planning Department of Cali with the objective of facilitating the identification of the components of the abbreviated nomenclature based on the official information of the Superintendency of Notaries and Registry (SNR).
@@ -16,4 +16,4 @@ If you have any questions or want to verify an inaccuracy, it is suggested to us
 
 Explanatory video: https://youtu.be/cDxS_HoGsAk
 
-Link to program:
+Link to program: https://tinyurl.com/muaj9b22
